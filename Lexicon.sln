@@ -1,0 +1,98 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0-Core", "0-Core", "{467616A5-2830-4F36-82D6-52D4E28CDB9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lexicon.Core", "Lexicon.Core\Lexicon.Core.csproj", "{BC60D4E0-0398-4F6E-B42D-900115BD0946}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Business", "1-Business", "{8481C4B9-8591-42FD-8E65-16330DA510B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lexicon.Business", "Lexicon.Business\Lexicon.Business.csproj", "{7DA31A90-A05C-4D48-9259-64061828AFFF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-UI", "2-UI", "{88CF499A-44FB-4174-B339-2991CA9F9381}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{83A1393A-2DC1-4440-8A62-22EFD5280CFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lexicon.Infrastructure", "Lexicon.Infrastructure\Lexicon.Infrastructure.csproj", "{D1ED833B-58A5-4E7E-B91D-04937F2C6036}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lexicon.WinForm", "Lexicon.WinForm\Lexicon.WinForm.csproj", "{B08B465A-1CA5-4006-9DB3-399C33D5C9D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lexicon.Console", "Lexicon.Console\Lexicon.Console.csproj", "{DAED5BB3-4C8E-4EA9-9B84-9F22EC47CBDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lexicon.Dictionary", "Lexicon.Dictionary\Lexicon.Dictionary.csproj", "{5DE0AD6B-FF81-48AC-B5C2-A035B34788E9}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ekinceylan.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Lexicon.Core\\Lexicon.Core.csproj
+		SccProjectTopLevelParentUniqueName1 = Lexicon.sln
+		SccProjectName1 = Lexicon.Core
+		SccLocalPath1 = Lexicon.Core
+		SccProjectUniqueName2 = Lexicon.Business\\Lexicon.Business.csproj
+		SccProjectTopLevelParentUniqueName2 = Lexicon.sln
+		SccProjectName2 = Lexicon.Business
+		SccLocalPath2 = Lexicon.Business
+		SccProjectUniqueName3 = Lexicon.Infrastructure\\Lexicon.Infrastructure.csproj
+		SccProjectTopLevelParentUniqueName3 = Lexicon.sln
+		SccProjectName3 = Lexicon.Infrastructure
+		SccLocalPath3 = Lexicon.Infrastructure
+		SccProjectUniqueName4 = Lexicon.WinForm\\Lexicon.WinForm.csproj
+		SccProjectTopLevelParentUniqueName4 = Lexicon.sln
+		SccProjectName4 = Lexicon.WinForm
+		SccLocalPath4 = Lexicon.WinForm
+		SccProjectUniqueName5 = Lexicon.Console\\Lexicon.Console.csproj
+		SccProjectTopLevelParentUniqueName5 = Lexicon.sln
+		SccProjectName5 = Lexicon.Console
+		SccLocalPath5 = Lexicon.Console
+		SccProjectUniqueName6 = Lexicon.Dictionary\\Lexicon.Dictionary.csproj
+		SccProjectTopLevelParentUniqueName6 = Lexicon.sln
+		SccProjectName6 = Lexicon.Dictionary
+		SccLocalPath6 = Lexicon.Dictionary
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC60D4E0-0398-4F6E-B42D-900115BD0946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC60D4E0-0398-4F6E-B42D-900115BD0946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC60D4E0-0398-4F6E-B42D-900115BD0946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC60D4E0-0398-4F6E-B42D-900115BD0946}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DA31A90-A05C-4D48-9259-64061828AFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA31A90-A05C-4D48-9259-64061828AFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA31A90-A05C-4D48-9259-64061828AFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA31A90-A05C-4D48-9259-64061828AFFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1ED833B-58A5-4E7E-B91D-04937F2C6036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1ED833B-58A5-4E7E-B91D-04937F2C6036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1ED833B-58A5-4E7E-B91D-04937F2C6036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1ED833B-58A5-4E7E-B91D-04937F2C6036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B08B465A-1CA5-4006-9DB3-399C33D5C9D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08B465A-1CA5-4006-9DB3-399C33D5C9D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B08B465A-1CA5-4006-9DB3-399C33D5C9D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B08B465A-1CA5-4006-9DB3-399C33D5C9D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAED5BB3-4C8E-4EA9-9B84-9F22EC47CBDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAED5BB3-4C8E-4EA9-9B84-9F22EC47CBDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAED5BB3-4C8E-4EA9-9B84-9F22EC47CBDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAED5BB3-4C8E-4EA9-9B84-9F22EC47CBDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DE0AD6B-FF81-48AC-B5C2-A035B34788E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DE0AD6B-FF81-48AC-B5C2-A035B34788E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DE0AD6B-FF81-48AC-B5C2-A035B34788E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DE0AD6B-FF81-48AC-B5C2-A035B34788E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BC60D4E0-0398-4F6E-B42D-900115BD0946} = {467616A5-2830-4F36-82D6-52D4E28CDB9F}
+		{7DA31A90-A05C-4D48-9259-64061828AFFF} = {8481C4B9-8591-42FD-8E65-16330DA510B0}
+		{D1ED833B-58A5-4E7E-B91D-04937F2C6036} = {83A1393A-2DC1-4440-8A62-22EFD5280CFD}
+		{B08B465A-1CA5-4006-9DB3-399C33D5C9D3} = {88CF499A-44FB-4174-B339-2991CA9F9381}
+		{DAED5BB3-4C8E-4EA9-9B84-9F22EC47CBDA} = {88CF499A-44FB-4174-B339-2991CA9F9381}
+		{5DE0AD6B-FF81-48AC-B5C2-A035B34788E9} = {88CF499A-44FB-4174-B339-2991CA9F9381}
+	EndGlobalSection
+EndGlobal

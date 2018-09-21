@@ -1,0 +1,5 @@
+E:\Belgelerim\BilgeAdam\WebProjem15\Lexicon\Lexicon.DAL\bin\Debug\Lexicon.DAL.dll
+E:\Belgelerim\BilgeAdam\WebProjem15\Lexicon\Lexicon.DAL\bin\Debug\Lexicon.DAL.pdb
+E:\Belgelerim\BilgeAdam\WebProjem15\Lexicon\Lexicon.DAL\obj\Debug\Lexicon.DAL.csprojResolveAssemblyReference.cache
+E:\Belgelerim\BilgeAdam\WebProjem15\Lexicon\Lexicon.DAL\obj\Debug\Lexicon.DAL.dll
+E:\Belgelerim\BilgeAdam\WebProjem15\Lexicon\Lexicon.DAL\obj\Debug\Lexicon.DAL.pdb

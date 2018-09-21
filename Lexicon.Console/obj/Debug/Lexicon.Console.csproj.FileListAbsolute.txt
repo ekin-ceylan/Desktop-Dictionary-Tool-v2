@@ -1,0 +1,15 @@
+E:\Belgelerim\BilgeAdam\WebProjem15\Lexicon\Lexicon.Console\bin\Debug\Lexicon.Console.exe.config
+E:\Belgelerim\BilgeAdam\WebProjem15\Lexicon\Lexicon.Console\bin\Debug\Lexicon.Console.exe
+E:\Belgelerim\BilgeAdam\WebProjem15\Lexicon\Lexicon.Console\bin\Debug\Lexicon.Console.pdb
+E:\Belgelerim\BilgeAdam\WebProjem15\Lexicon\Lexicon.Console\bin\Debug\Lexicon.Business.dll
+E:\Belgelerim\BilgeAdam\WebProjem15\Lexicon\Lexicon.Console\bin\Debug\Lexicon.Core.dll
+E:\Belgelerim\BilgeAdam\WebProjem15\Lexicon\Lexicon.Console\bin\Debug\Lexicon.Infrastructure.dll
+E:\Belgelerim\BilgeAdam\WebProjem15\Lexicon\Lexicon.Console\bin\Debug\HtmlAgilityPack.dll
+E:\Belgelerim\BilgeAdam\WebProjem15\Lexicon\Lexicon.Console\bin\Debug\Lexicon.Business.pdb
+E:\Belgelerim\BilgeAdam\WebProjem15\Lexicon\Lexicon.Console\bin\Debug\Lexicon.Core.pdb
+E:\Belgelerim\BilgeAdam\WebProjem15\Lexicon\Lexicon.Console\bin\Debug\Lexicon.Infrastructure.pdb
+E:\Belgelerim\BilgeAdam\WebProjem15\Lexicon\Lexicon.Console\bin\Debug\HtmlAgilityPack.pdb
+E:\Belgelerim\BilgeAdam\WebProjem15\Lexicon\Lexicon.Console\bin\Debug\HtmlAgilityPack.xml
+E:\Belgelerim\BilgeAdam\WebProjem15\Lexicon\Lexicon.Console\obj\Debug\Lexicon.Console.csprojResolveAssemblyReference.cache
+E:\Belgelerim\BilgeAdam\WebProjem15\Lexicon\Lexicon.Console\obj\Debug\Lexicon.Console.exe
+E:\Belgelerim\BilgeAdam\WebProjem15\Lexicon\Lexicon.Console\obj\Debug\Lexicon.Console.pdb

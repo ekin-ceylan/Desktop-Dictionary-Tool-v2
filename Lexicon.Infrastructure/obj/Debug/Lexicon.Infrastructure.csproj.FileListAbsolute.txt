@@ -1,0 +1,10 @@
+E:\Belgelerim\BilgeAdam\WebProjem15\Lexicon\Lexicon.Infrastructure\bin\Debug\Lexicon.Infrastructure.dll
+E:\Belgelerim\BilgeAdam\WebProjem15\Lexicon\Lexicon.Infrastructure\bin\Debug\Lexicon.Infrastructure.pdb
+E:\Belgelerim\BilgeAdam\WebProjem15\Lexicon\Lexicon.Infrastructure\obj\Debug\Lexicon.Infrastructure.csprojResolveAssemblyReference.cache
+E:\Belgelerim\BilgeAdam\WebProjem15\Lexicon\Lexicon.Infrastructure\obj\Debug\Lexicon.Infrastructure.dll
+E:\Belgelerim\BilgeAdam\WebProjem15\Lexicon\Lexicon.Infrastructure\obj\Debug\Lexicon.Infrastructure.pdb
+D:\Projects\Lexicon\Lexicon.Infrastructure\bin\Debug\Lexicon.Infrastructure.dll
+D:\Projects\Lexicon\Lexicon.Infrastructure\bin\Debug\Lexicon.Infrastructure.pdb
+D:\Projects\Lexicon\Lexicon.Infrastructure\obj\Debug\Lexicon.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Projects\Lexicon\Lexicon.Infrastructure\obj\Debug\Lexicon.Infrastructure.dll
+D:\Projects\Lexicon\Lexicon.Infrastructure\obj\Debug\Lexicon.Infrastructure.pdb
