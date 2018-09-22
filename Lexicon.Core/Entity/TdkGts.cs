@@ -21,14 +21,16 @@ namespace Lexicon.Core.Entity
             return @"http://tdk.gov.tr/index.php?option=com_gts&arama=gts&kelime=" + Word.Trim() + @"&uid=26607&guid=TDK.GTS.56c47c055e0e83.89258879";
         }
 
-
         public string GetDescriptionAsRichText()
         {
             if (HtmlDocument == null)
+            {
                 HtmlDocument = new HtmlWeb().Load(GetAddress());
+            }
 
             return GetDescriptionAsRichText(HtmlDocument);
         }
+
         private string GetDescriptionAsRichText(HtmlDocument htmlDocument)
         {
             HtmlNodeCollection htmlNodeCollection = htmlDocument.DocumentNode.SelectNodes("//*[@id='hor-minimalist-a']");
@@ -36,7 +38,9 @@ namespace Lexicon.Core.Entity
             RichTextBox rtb = new RichTextBox();
 
             if (htmlNodeCollection == null)
+            {
                 return _rth.RichTextWarning("\nNoResult");
+            }
 
             for (int i = 0; i < htmlNodeCollection.Count; i++)
             {
@@ -48,7 +52,9 @@ namespace Lexicon.Core.Entity
                 //HtmlNodeCollection nd = trCollection[0].SelectNodes("th");
 
                 if (i > 0)
+                {
                     rtb.AppendText("\n\n");
+                }
 
                 _rth.AppendRichTextBold(ref rtb, word);
 
@@ -58,23 +64,27 @@ namespace Lexicon.Core.Entity
                     string strh = tableRow.SelectSingleNode("td").InnerHtml;
 
                     if (str == "")
+                    {
                         continue;
+                    }
 
                     _rth.AppendRichTextRegular(ref rtb, " " + str);
-
                 }
             }
+
             return _stringHelper.ClearText(rtb.Rtf);
         }
-
 
         public string GetDescriptionAsText()
         {
             if (HtmlDocument == null)
+            {
                 HtmlDocument = new HtmlWeb().Load(GetAddress());
+            }
 
             return GetDescriptionAsText(HtmlDocument);
         }
+
         private string GetDescriptionAsText(HtmlDocument htmlDocument)
         {
             HtmlNodeCollection htmlNodeCollection = htmlDocument.DocumentNode.SelectNodes("//*[@id='hor-minimalist-a']");
@@ -82,7 +92,9 @@ namespace Lexicon.Core.Entity
             StringBuilder rtb = new StringBuilder();
 
             if (htmlNodeCollection == null)
-                return Word +" için sonuç bulunamadı.";
+            {
+                return Word + " için sonuç bulunamadı.";
+            }
 
             for (int i = 0; i < htmlNodeCollection.Count; i++)
             {
@@ -96,6 +108,7 @@ namespace Lexicon.Core.Entity
                     rtb.AppendLine();
                     rtb.AppendLine();
                 }
+
                 rtb.Append(word);
 
                 foreach (HtmlNode tableRow in trCollection)
@@ -103,51 +116,52 @@ namespace Lexicon.Core.Entity
                     string str = tableRow.SelectSingleNode("td").InnerText.Trim();
 
                     if (str == "")
+                    {
                         continue;
+                    }
 
                     rtb.Append(" " + str);
-
                 }
             }
+
             return _stringHelper.ClearText(rtb.ToString());
         }
-
 
         public string GetSound()
         {
             HtmlDocument htmlDocument = new HtmlWeb().Load(GetAddress());
             return GetSound(htmlDocument);
         }
+
         private string GetSound(HtmlDocument htmlDocument)
         {
             return null;
         }
 
-
         public bool IsWordExist()
         {
             if (HtmlDocument == null)
+            {
                 HtmlDocument = new HtmlWeb().Load(GetAddress());
+            }
 
             return IsWordExist(HtmlDocument);
         }
+
         private bool IsWordExist(HtmlDocument htmlDocument)
         {
             return htmlDocument.DocumentNode.SelectNodes("//*[@id='hor-minimalist-a']") != null;
         }
 
-
         public Word GetTranslation()
         {
             HtmlDocument htmlDocument = new HtmlWeb().Load(GetAddress());
+
             return new Word
             {
                 RichText = GetDescriptionAsRichText(htmlDocument),
                 Sound = GetSound(htmlDocument)
             };
         }
-
-        
-
     }
 }

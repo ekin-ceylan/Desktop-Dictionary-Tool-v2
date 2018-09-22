@@ -18,3 +18,13 @@ D:\Projects\Lexicon\Lexicon.Core\bin\Debug\HtmlAgilityPack.xml
 D:\Projects\Lexicon\Lexicon.Core\obj\Debug\Lexicon.Core.csprojResolveAssemblyReference.cache
 D:\Projects\Lexicon\Lexicon.Core\obj\Debug\Lexicon.Core.dll
 D:\Projects\Lexicon\Lexicon.Core\obj\Debug\Lexicon.Core.pdb
+D:\Repos\Desktop-Dictionary-Tool-v2\Lexicon.Core\bin\Debug\Lexicon.Core.dll
+D:\Repos\Desktop-Dictionary-Tool-v2\Lexicon.Core\bin\Debug\Lexicon.Core.pdb
+D:\Repos\Desktop-Dictionary-Tool-v2\Lexicon.Core\bin\Debug\HtmlAgilityPack.dll
+D:\Repos\Desktop-Dictionary-Tool-v2\Lexicon.Core\bin\Debug\Lexicon.Infrastructure.dll
+D:\Repos\Desktop-Dictionary-Tool-v2\Lexicon.Core\bin\Debug\Lexicon.Infrastructure.pdb
+D:\Repos\Desktop-Dictionary-Tool-v2\Lexicon.Core\bin\Debug\HtmlAgilityPack.pdb
+D:\Repos\Desktop-Dictionary-Tool-v2\Lexicon.Core\bin\Debug\HtmlAgilityPack.xml
+D:\Repos\Desktop-Dictionary-Tool-v2\Lexicon.Core\obj\Debug\Lexicon.Core.csprojResolveAssemblyReference.cache
+D:\Repos\Desktop-Dictionary-Tool-v2\Lexicon.Core\obj\Debug\Lexicon.Core.dll
+D:\Repos\Desktop-Dictionary-Tool-v2\Lexicon.Core\obj\Debug\Lexicon.Core.pdb

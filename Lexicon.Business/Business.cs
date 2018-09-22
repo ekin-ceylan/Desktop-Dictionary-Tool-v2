@@ -62,6 +62,5 @@ namespace Lexicon.Business
                 return ex.Message;
             }
         }
-
     }
 }

@@ -8,3 +8,8 @@ D:\Projects\Lexicon\Lexicon.Infrastructure\bin\Debug\Lexicon.Infrastructure.pdb
 D:\Projects\Lexicon\Lexicon.Infrastructure\obj\Debug\Lexicon.Infrastructure.csprojResolveAssemblyReference.cache
 D:\Projects\Lexicon\Lexicon.Infrastructure\obj\Debug\Lexicon.Infrastructure.dll
 D:\Projects\Lexicon\Lexicon.Infrastructure\obj\Debug\Lexicon.Infrastructure.pdb
+D:\Repos\Desktop-Dictionary-Tool-v2\Lexicon.Infrastructure\bin\Debug\Lexicon.Infrastructure.dll
+D:\Repos\Desktop-Dictionary-Tool-v2\Lexicon.Infrastructure\bin\Debug\Lexicon.Infrastructure.pdb
+D:\Repos\Desktop-Dictionary-Tool-v2\Lexicon.Infrastructure\obj\Debug\Lexicon.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Repos\Desktop-Dictionary-Tool-v2\Lexicon.Infrastructure\obj\Debug\Lexicon.Infrastructure.dll
+D:\Repos\Desktop-Dictionary-Tool-v2\Lexicon.Infrastructure\obj\Debug\Lexicon.Infrastructure.pdb

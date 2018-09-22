@@ -22,3 +22,15 @@ D:\Projects\Lexicon\Lexicon.Business\bin\Debug\HtmlAgilityPack.xml
 D:\Projects\Lexicon\Lexicon.Business\obj\Debug\Lexicon.Business.csprojResolveAssemblyReference.cache
 D:\Projects\Lexicon\Lexicon.Business\obj\Debug\Lexicon.Business.dll
 D:\Projects\Lexicon\Lexicon.Business\obj\Debug\Lexicon.Business.pdb
+D:\Repos\Desktop-Dictionary-Tool-v2\Lexicon.Business\bin\Debug\Lexicon.Business.dll
+D:\Repos\Desktop-Dictionary-Tool-v2\Lexicon.Business\bin\Debug\Lexicon.Business.pdb
+D:\Repos\Desktop-Dictionary-Tool-v2\Lexicon.Business\bin\Debug\Lexicon.Core.dll
+D:\Repos\Desktop-Dictionary-Tool-v2\Lexicon.Business\bin\Debug\Lexicon.Infrastructure.dll
+D:\Repos\Desktop-Dictionary-Tool-v2\Lexicon.Business\bin\Debug\HtmlAgilityPack.dll
+D:\Repos\Desktop-Dictionary-Tool-v2\Lexicon.Business\bin\Debug\Lexicon.Core.pdb
+D:\Repos\Desktop-Dictionary-Tool-v2\Lexicon.Business\bin\Debug\Lexicon.Infrastructure.pdb
+D:\Repos\Desktop-Dictionary-Tool-v2\Lexicon.Business\bin\Debug\HtmlAgilityPack.pdb
+D:\Repos\Desktop-Dictionary-Tool-v2\Lexicon.Business\bin\Debug\HtmlAgilityPack.xml
+D:\Repos\Desktop-Dictionary-Tool-v2\Lexicon.Business\obj\Debug\Lexicon.Business.csprojResolveAssemblyReference.cache
+D:\Repos\Desktop-Dictionary-Tool-v2\Lexicon.Business\obj\Debug\Lexicon.Business.dll
+D:\Repos\Desktop-Dictionary-Tool-v2\Lexicon.Business\obj\Debug\Lexicon.Business.pdb
